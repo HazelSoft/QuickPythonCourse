@@ -2,7 +2,7 @@
 This is a 
 MULTI_LINE
 comment 
-in the python course
+in the python course.
 """
 
 # Printing a string literal
